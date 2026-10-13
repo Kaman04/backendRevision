@@ -1,0 +1,22 @@
+{
+  "name": "expressrevise",
+  "version": "1.0.0",
+  "description": "A practice project for revising Express.js and building REST APIs",
+  "keywords": [
+    "express",
+    "nodejs",
+    "backend",
+    "rest-api",
+    "learning"
+  ],
+  "license": "ISC",
+  "author": "Aman Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
